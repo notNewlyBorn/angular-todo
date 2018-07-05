@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^6.1.0-beta.3",
+    "@angular/animations": "^6.0.7",
     "@angular/common": "^6.1.0-beta.3",
     "@angular/compiler": "^6.1.0-beta.3",
     "@angular/core": "^6.1.0-beta.3",
@@ -23,8 +23,8 @@
     "@angular/router": "^6.1.0-beta.3",
     "core-js": "^2.4.1",
     "rxjs": "^6.2.1",
-    "zone.js": "^0.8.14",
-    "rxjs-compat": "^6.0.0-rc.0"
+    "rxjs-compat": "^6.0.0-rc.0",
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.8",
